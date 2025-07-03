@@ -32,11 +32,11 @@ OPENAI_API_KEY=your_actual_api_key_here
 
 ### 3. Run the Application
 ```bash
-python3 app.py
+python app.py
 ```
 
 ### 4. Access the Application
-- Open your browser and go to `http://127.0.0.1:5000`
+- Open your browser and go to `http://127.0.0.1:5004`
 - Upload a PDF blood report to get health insights
 
 ---
