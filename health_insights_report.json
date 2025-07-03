@@ -1,0 +1,25 @@
+{
+    "FirstOrderFindings": {
+        "LYMPHS (ABSOLUTE)": "High",
+        "GLUCOSE": "High",
+        "TRIGLYCERIDES": "High",
+        "HDL CHOLESTEROL": "Low",
+        "VLDL CHOLESTEROL CAL": "High",
+        "TESTOSTERONE": "Low",
+        "SERUM": "Low",
+        "C": "High",
+        "DHEA-SULFATE": "High",
+        "LH": "High",
+        "ESTRADIOL": "High",
+        "-HYDROXY": "Low"
+    },
+    "SecondOrderInsights": [
+        "Possible insulin resistance",
+        "Increased cardiovascular risk"
+    ],
+    "CausalHypotheses": [
+        "High triglycerides and glucose suggest poor glucose metabolism",
+        "High LDL, low HDL, and poor cholesterol ratio suggest atherogenic lipid profile"
+    ],
+    "NarrativeExplanation": "Need AI to generate a comprehensive health report based on the blood test results. "
+}
