@@ -1,0 +1,8 @@
+flask>=2.0
+python-dotenv>=0.21
+nbformat>=5.7
+nbconvert>=7.0
+nest_asyncio>=1.
+pdfplumber
+pandas
+openai
